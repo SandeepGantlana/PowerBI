@@ -9,7 +9,9 @@ Contents
 This repository contains the following Power BI dashboards:
 
     1. Data Driven Career Paths- Navigating Opportunities in the World of Data
-    2. Unlocking Insurance Insights Brokers - Business Classes
+    2. Unlocking Insurance Insights Brokers - Business Classes.
+    3. Change Readiness Survey Report
+    4. Analysing Retail Value Chain
 
 How to Use
 
